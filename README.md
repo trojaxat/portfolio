@@ -1,2 +1,3 @@
 # portfolio
-This is a basic html website for my various projects
+
+This is a basic static html website for my various data science projects
